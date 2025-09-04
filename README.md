@@ -7,23 +7,23 @@ Welcome
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranjithkumar87" alt="ranjithkumar87" /></a> </p>
 
-- 🔭 I’m currently working on **Chatbot**
+- 🔭 I’m currently working on *Chatbot*
 
-- 🌱 I’m currently learning **Django, FastAPI**
+- 🌱 I’m currently learning *Django, FastAPI*
 
-- 👯 I’m looking to collaborate on **👯 I’m looking to collaborate on AI/ML-powered chatbot applications**
+- 👯 I’m looking to collaborate on *👯 I’m looking to collaborate on AI/ML-powered chatbot applications*
 
-- 🤝 I’m looking for help with **🤝 I’m looking for help with improving my Chatbot project (AI + NLP enhancements)**
+- 🤝 I’m looking for help with *🤝 I’m looking for help with improving my Chatbot project (AI + NLP enhancements)*
 
 - 📝 I regularly write articles on [📝 I regularly write insightful articles on emerging technologies and AI trends](📝 I regularly write insightful articles on emerging technologies and AI trends)
 
-- 💬 Ask me about **💬 Ask me about building high-performance backends, elegant frontends, and AI-driven experiences.**
+- 💬 Ask me about *💬 Ask me about building high-performance backends, elegant frontends, and AI-driven experiences.*
 
-- 📫 How to reach me **ranjithns87@gmail.com**
+- 📫 How to reach me *ranjithns87@gmail.com*
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1m4n7IpAiMKEMQUFIgnEjojh2RQiAH0q5/view?usp=drivesdk](https://drive.google.com/file/d/1m4n7IpAiMKEMQUFIgnEjojh2RQiAH0q5/view?usp=drivesdk)
 
-- ⚡ Fun fact **⚡I code by day, write by night, and always stay curious.**
+- ⚡ Fun fact *⚡I code by day, write by night, and always stay curious.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
